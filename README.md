@@ -9,16 +9,16 @@ This project consists of an exploratory analysis of historical data on urban mar
   * Libraries: Pandas and Seaborn
 * Steps of the Project:
   ### 1. Data Preprocessing and Cleaning:
-      * Null Value Removal and Analysis
-      * Conversion of Incorrect Data Types (integers, floats)
-      * Column Renaming to Make Code Easier to Read
+     * Null Value Removal and Analysis
+     * Conversion of Incorrect Data Types (integers, floats)
+     * Column Renaming to Make Code Easier to Read
   ### 2. Exploratory Analysis (EDA):
-      * Filtering by events of specific distances (50km and 50mi)
-      * Comparing Average Speeds between Men and Women over These Distances
-      * Identifying Events in Which an Athlete Participated with a Specific ID
-      * Visualizing the Distribution of Average Speeds, Participation by Gender, and More
+     * Filtering by events of specific distances (50km and 50mi)
+     * Comparing Average Speeds between Men and Women over These Distances
+     * Identifying Events in Which an Athlete Participated with a Specific ID
+     * Visualizing the Distribution of Average Speeds, Participation by Gender, and More
   ### 3. Visualizations:
-      * Use of various graphs to compare and extract important data
+     * Use of various graphs to compare and extract important data
 ## 🧠Key questions answered:
   * In which events did an athlete with a specific ID participate?
   * What is the average speed difference between men and women in 50km and 50mi events?
