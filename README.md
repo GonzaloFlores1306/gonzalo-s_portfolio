@@ -52,7 +52,7 @@ Data was sourced from the Kaggle dataset:
 
 ---
 
-# 🎬 Project 2: Predicting Movie Ratings with Machine Learning
+# [🎬 Project 2: Predicting Movie Ratings with Machine Learning](https://github.com/GonzaloFlores1306/gonzalo-s_portfolio/blob/main/Projects/Movie%20Ratings/Movie_Review_Analysis.ipynb)
 
 This project presents a complete **data analysis and machine learning pipeline** to explore and predict movie ratings based on various features such as title, genre, and year.
 
