@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap">
+  <link rel="stylesheet" href="./css/style-heart.css">
+  <link rel="stylesheet" href="./css/btn.css" />
+  <link rel="icon" href="./img/heart.png" type="image/x-icon">
+  <title>Mi corazón para tí</title>
+</head>
+<body>
+  <a href="index.html" class="back">Vuelve</a>
+  <div class="heart">
+    <p>Felices 10 años amor. Gracias por existir y acompañarme en convertirme en un mejor hombre para tí.
+      Te adoro. (Programado porque escrito una desgracia wa wa wa)
+    </p>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.3.1/dist/confetti.browser.min.js"></script>
+  <script>
+    setInterval(() => {
+      confetti({
+        particleCount: 100,
+        spread: 60,
+        origin: { x: 0.5, y: 0.5}
+      });
+    }, 2000);
+  </script>
+  
+</body>
+</html>
